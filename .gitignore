@@ -174,4 +174,4 @@ cython_debug/
 .pypirc
 
 #Data
-DATA/WorldBankGroup_Statement_Of_Loans_and_Guarantees.csv
+data/WorldBankGroup_Statement_Of_Loans_and_Guarantees.csv
